@@ -21,7 +21,7 @@
 - web 开发框架： go-gin。 
 - 数据库： MySQL。
 
-后台项目地址： [fudao_api](#)
+后台项目地址： [fudao_api](https://github.com/lrfdehao/fudao_api)
 
 
 ## 思路
