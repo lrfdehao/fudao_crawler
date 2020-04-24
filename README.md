@@ -4,9 +4,25 @@
 
 ## 技术选型
 
-golang + MySQL
+### 爬虫
 
-使用cronjob每天定时启动一次。
+- 抓取工具： `golang` + `MySQL`。
+- 定时处理： `cronjob` （每天一次）。
+
+### 前端
+
+- js： vue.js。
+- css： [iviewui](https://www.iviewui.com/)。
+
+前端项目地址： [fudao_frontend](#)
+
+### 后台
+
+- web 开发框架： go-gin。 
+- 数据库： MySQL。
+
+后台项目地址： [fudao_api](#)
+
 
 ## 思路
 1. 根据 **grade_subject** 接口抓取所有的 `年级(grade)` 以及对应的 `科目(subject)`。
