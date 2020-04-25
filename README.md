@@ -14,7 +14,7 @@
 - js： vue.js。
 - css： [iviewui](https://www.iviewui.com/)。
 
-前端项目地址： [fudao_frontend](#)
+前端项目地址： [fudao_frontend](https://github.com/lrfdehao/fudao_frontend)
 
 ### 后台
 
